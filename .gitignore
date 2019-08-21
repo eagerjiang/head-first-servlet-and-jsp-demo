@@ -12,3 +12,4 @@ gen
 /dependency-reduced-pom.xml
 /log4j_error/
 /log4j/
+/classes/
