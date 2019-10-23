@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>chapter7</artifactId>
-    <name>使用JSP</name>
-
+    <artifactId>chapter8</artifactId>
+    <name>无脚本的JSP</name>
 
 </project>
